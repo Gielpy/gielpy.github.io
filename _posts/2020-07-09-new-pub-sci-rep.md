@@ -6,7 +6,6 @@ tags: [publication, self-administration, cocaine, bioinformatics, rna-seq]
 ---
 
 ### New publication out in Scientific Reports
-## July 9, 2020
 
 Out today is a new manuscript from my postdoctoral lab:
 
