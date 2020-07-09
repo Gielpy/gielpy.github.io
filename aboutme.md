@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Greg Powell is a postdoctoral researcher in neuroscience and Senior Coordinator of an undergraduate training grant at Arizona State University; research in addiction
+subtitle: Getting to know me
 ---
 
 Greg Powell is a Postdoctoral Researcher in the
