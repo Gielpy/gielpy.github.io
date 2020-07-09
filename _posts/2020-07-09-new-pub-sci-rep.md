@@ -2,7 +2,7 @@
 layout: post
 title: New publication out in Scientific Reports
 subtitle: Transcriptomic effects of environmental enrichment during abstinence from cocaine
-tags: [publication][self-administration][cocaine][bioinformatics][rna-seq]
+tags: [publication, self-administration, cocaine, bioinformatics, rna-seq]
 ---
 
 ### New publication out in Scientific Reports
