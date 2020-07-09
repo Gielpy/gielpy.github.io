@@ -29,7 +29,7 @@ following incubation of cocaine craving, among others.
 
 In his personal life, Greg is married and has three children.
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/powell_cv.pdf)<br/>
+[curriculum vitae ![CV as pdf](assets/img/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/powell_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-6097-9092](https://orcid.org/0000-0002-6097-9092)<br/>
 [google scholar](https://scholar.google.com/citations?user=lru-sYUAAAAJ&hl=en)<br/>
 [researchgate](https://www.researchgate.net/profile/Gregory_Powell)<br/>
@@ -37,33 +37,3 @@ In his personal life, Greg is married and has three children.
 [github](https://github.com/gielpy)<br/>
 [blog](https://gielpy.github.io/eadem_mutata_resurgo) <br/>
 he/him
-
----
-
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Greg Powell<br/>
-            <!-- <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/> -->
-
-            <div id="hide_email">
-            Email: <code>gre</code><b>I</b><code>gory.powell.1</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>as</code><b>leave
-            </b><code>u</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            </div>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/pics/IMG_4138.jpg">
-            <img src="../assets/pics/IMG_4138.jpg"
-                  title="Greg Powell" alt="Greg Powell"/></a>
-        </div>
-    </div>
-</div>
