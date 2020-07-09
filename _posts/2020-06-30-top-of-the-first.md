@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Top of the first
-subtitle: 
-cover-img: 
-share-img: 
+subtitle: Nobody on, nobody out
 tags: [intro]
 ---
-
 
 ### June 30, 2020
 
