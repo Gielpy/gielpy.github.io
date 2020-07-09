@@ -8,12 +8,20 @@ description: Greg Powell's publications
 
 #### To appear
 
-**Powell, G. L.**, Vannan, A., Bastle, R. M., Wilson, M. A., Dell’Orco, M., Perrone-Bizzozero, N. I., 
-& Neisewander, J. L. (2020). Environmental enrichment during forced abstinence from cocaine 
-self-administration opposes gene network expression changes associated with the incubation effect. 
-[Scientific Reports](https://www.nature.com/srep/).
+Vannan, A., **Powell, G. L.**, Dell'Orco, M., Wilson, M.A., Perrone-Bizzozero, N.I., Neisewander, J.L.
+microRNA regulation related to the protective effects of environmental enrichment against cocaine-seeking behavior.
+
+**Powell, G. L.**, Namba, M.D., Vannan, A., Bonadonna, J.P., Carlson, A., Mendoza, R., Chen, P-J, Luedtke, R.R.,
+Blass, B.E., Neisewander, J.L. The long-acting D3 partial agonist MC-25-41 attenuates motivation for cocaine in Sprague-Dawley rats. 
 
 #### 2020
+
+**Powell, G.L.**, Vannan, A., Bastle, R.M. et al. 
+Environmental enrichment during forced abstinence from cocaine self-administration opposes gene network expression
+changes associated with the incubation effect. (2020) [Scientific Reports](https://www.nature.com/srep) Rep 10, 11291
+<!-- [![PubMed](assets/img/icons16/pubmed-icon.png)]
+ -->[![doi](assets/img/icons16/doi-icon.png)](https://doi.org/10.1038/s41598-020-67966-8)
+[![pdf](assets/img/icons16/pdf-icon.png)](/docs/srep-powell-2020.pdf)
 
 **Powell, G.**, Beckmann, J. S., Marusich, J. A., & Gipson, C. D. (2020). 
 Nicotine reduction does not alter essential value of nicotine
