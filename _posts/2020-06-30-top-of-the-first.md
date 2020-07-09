@@ -5,7 +5,7 @@ subtitle: Nobody on, nobody out
 tags: [intro]
 ---
 
-### June 30, 2020
+### Intros are in order
 
 Today is the public launch of my site and blog. It coincides with my job hunt in earnest.
 Together with my family, I will almost certainly be moving to Denver, Colorado in about a year.
