@@ -10,6 +10,7 @@ tags: [publication, self-administration, cocaine, bioinformatics, rna-seq]
 Out today is a new manuscript from my postdoctoral lab:
 
 [Environmental enrichment during forced abstinence from cocaine self-administration opposes gene network expression changes associated with the incubation effect](https://rdcu.be/b5vzX)
+
 <a href="gielpy.github.io/docs/srep-powell-2020.pdf" target="_blank">PDF.</a>
 
 A huge thank you goes out to our collaborators in the lab of Dr. Nora Perrone-Bizzozero at the University of New Mexico.
