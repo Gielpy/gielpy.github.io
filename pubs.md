@@ -12,7 +12,8 @@ Vannan, A., **Powell, G. L.**, Dell'Orco, M., Wilson, M.A., Perrone-Bizzozero, N
 microRNA regulation related to the protective effects of environmental enrichment against cocaine-seeking behavior.
 
 **Powell, G. L.**, Namba, M.D., Vannan, A., Bonadonna, J.P., Carlson, A., Mendoza, R., Chen, P-J, Luedtke, R.R.,
-Blass, B.E., Neisewander, J.L. The long-acting D3 partial agonist MC-25-41 attenuates motivation for cocaine in Sprague-Dawley rats. 
+Blass, B.E., Neisewander, J.L. (2020). The long-acting D3 partial agonist MC-25-41 attenuates motivation for cocaine in Sprague-Dawley rats.
+[Biomolecules](https://www.mdpi.com/journal/biomolecules)
 
 #### 2020
 
