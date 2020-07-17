@@ -1,11 +1,9 @@
 ---
 layout: post
 title: New publication accepted! New repo!
-subtitle: Can I find a link between dopamine receptors and COVID-19?
+subtitle: Publishing in the time of covid-19
 tags: [publication, cocaine, pharmacology, behavioral economics, github, repo, covid-19]
 ---
-
-### New publication accepted! New repo!
 
 We had another paper accepted in [Biomolecules](https://www.mdpi.com/journal/biomolecules) that should be out soon. All about the effect of a selective
 dopamine D3 receptor partial agonist on cocaine self-administration, particularly on the demand for cocaine. We evaluated demand using behavioral 
