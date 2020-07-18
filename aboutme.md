@@ -22,9 +22,9 @@ Greg is a Senior Coordinator for the [WINURE Program](https://sols.asu.edu/stude
 program dedicated to increasing underrepresented minorities enrollment in neuroscience graduate programs.
 
 Greg is an engineer and neuroscientist focused on uncovering mechanisms of substance use disorders,
-particularly testing compounds for the treatment of cocaine use disorders. He has [published](https://gielpy.github.io/pubs) on  
-the effects of developmental nicotine exposure on respiratory motor neurons, the effects of N-acetylcysteine  
-on nicotine self-administration in rats, and how environmental enrichment effects the rat transcriptome  
+particularly testing compounds for the treatment of cocaine use disorders. He has [published](https://gielpy.github.io/pubs) on
+the effects of developmental nicotine exposure on respiratory motor neurons, the effects of N-acetylcysteine
+on nicotine self-administration in rats, and how environmental enrichment effects the rat transcriptome
 following incubation of cocaine craving, among others.  
 
 In his personal life, Greg is married and has three children.
