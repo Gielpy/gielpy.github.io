@@ -5,7 +5,7 @@ subtitle: Publishing in the time of covid-19
 tags: [publication, cocaine, pharmacology, behavioral economics, github, repo, covid-19]
 ---
 
-We had another paper accepted in [Biomolecules](https://www.mdpi.com/journal/biomolecules) that should be out soon. All about the effect of a selective
+We had another paper accepted in [Biomolecules](https://www.mdpi.com/2218-273X/10/7/1076) that should be out soon. All about the effect of a selective
 dopamine D3 receptor partial agonist on cocaine self-administration, particularly on the demand for cocaine. We evaluated demand using behavioral 
 economics similar to some of my previous [work](https://gielpy.github.io/pubs/). Tons of thank yous necessary, particularly to the undergraduate
 research assistants who helped run the rats and our collaborators at the University of North Texas and Temple University.

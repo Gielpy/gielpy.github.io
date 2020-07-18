@@ -11,11 +11,13 @@ description: Greg Powell's publications
 Vannan, A., **Powell, G. L.**, Dell'Orco, M., Wilson, M.A., Perrone-Bizzozero, N.I., Neisewander, J.L.
 microRNA regulation related to the protective effects of environmental enrichment against cocaine-seeking behavior.
 
-**Powell, G. L.**, Namba, M.D., Vannan, A., Bonadonna, J.P., Carlson, A., Mendoza, R., Chen, P-J, Luedtke, R.R.,
-Blass, B.E., Neisewander, J.L. (2020). The long-acting D3 partial agonist MC-25-41 attenuates motivation for cocaine in Sprague-Dawley rats.
-[Biomolecules](https://www.mdpi.com/journal/biomolecules)
-
 #### 2020
+
+**Powell GL**, Namba MD, Vannan A, Bonadonna JP, Carlson A, Mendoza R, Chen P-J, Luetdke RR, Blass BE, Neisewander JL. 
+The Long-Acting D3 Partial Agonist MC-25-41 Attenuates Motivation for Cocaine in Sprague-Dawley Rats. 
+[Biomolecules](https://www.mdpi.com/journal/biomolecules). 2020; 10(7):1076. 
+[![doi](assets/img/icons16/doi-icon.png)](https://doi.org/10.3390/biom10071076)
+[![pdf](assets/img/icons16/pdf-icon.png)]({{ site.baseurl }}/pdf/biomolecules-10-01076.pdf)
 
 **Powell, G.L.**, Vannan, A., Bastle, R.M. et al. 
 Environmental enrichment during forced abstinence from cocaine self-administration opposes gene network expression
