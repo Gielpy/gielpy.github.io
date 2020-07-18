@@ -29,7 +29,7 @@ following incubation of cocaine craving, among others.
 
 In his personal life, Greg is married and has three children.
 
-[curriculum vitae ![CV as pdf](assets/img/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/powell_cv.pdf)<br/>
+[curriculum vitae ![CV as pdf](assets/img/icons16/pdf-icon.png)]({{ site.baseurl }}/pdf/powell_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-6097-9092](https://orcid.org/0000-0002-6097-9092)<br/>
 [google scholar](https://scholar.google.com/citations?user=lru-sYUAAAAJ&hl=en)<br/>
 [researchgate](https://www.researchgate.net/profile/Gregory_Powell)<br/>
