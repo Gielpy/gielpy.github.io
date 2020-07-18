@@ -22,6 +22,7 @@ Environmental enrichment during forced abstinence from cocaine self-administrati
 changes associated with the incubation effect. (2020) [Scientific Reports](https://www.nature.com/srep) Rep 10, 11291
 <!-- [![PubMed](assets/img/icons16/pubmed-icon.png)]
  -->[![doi](assets/img/icons16/doi-icon.png)](https://doi.org/10.1038/s41598-020-67966-8)
+[![pdf](assets/img/icons16/pdf-icon.png)]({{ site.baseurl }}/pdf/srep-powell-2020.pdf)
 
 **Powell, G.**, Beckmann, J. S., Marusich, J. A., & Gipson, C. D. (2020). 
 Nicotine reduction does not alter essential value of nicotine
